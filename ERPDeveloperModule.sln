@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERPDeveloperModule", "ERPDeveloperModule\ERPDeveloperModule.csproj", "{99B3ACC0-1A2B-4C1A-BE47-BA5809836994}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{EEB9CC54-5153-4A22-9336-CFFBD83AC0DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperModel", "ClassLibrary1\DeveloperModel.csproj", "{EEB9CC54-5153-4A22-9336-CFFBD83AC0DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
