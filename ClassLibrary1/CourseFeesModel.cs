@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DeveloperModel
 {
-    class CourseFeesModel
+  public class CourseFeesModel
     {
         public int FeeId { get; set; }
         public int CourseId { get; set; }

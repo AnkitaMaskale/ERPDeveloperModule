@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DeveloperModel
 {
-    class ProgramAnswersModel
+   public class ProgramAnswersModel
     {
         public int ProgramAnswerId { get; set; }
         public string ProgramAnswer { get; set; }

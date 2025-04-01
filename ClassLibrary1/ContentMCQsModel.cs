@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DeveloperModel
 {
-    class ContentMCQsModel
+ public   class ContentMCQsModel
     {
         public int ContentMCQId { get; set; }
         public string ContentMcqName { get; set; }
